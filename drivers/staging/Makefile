@@ -52,3 +52,5 @@ obj-$(CONFIG_DRM_VBOXVIDEO)	+= vboxvideo/
 obj-$(CONFIG_PI433)		+= pi433/
 obj-$(CONFIG_S2MPG01)		+= s2mpg01/
 obj-$(CONFIG_GOOGLE_WLAN_MAC)	+= wlan_mac/
+obj-$(CONFIG_TOUCHSCREEN_FTS)	+= fts/
+obj-$(CONFIG_QCA_CLD_WLAN)	+= qcacld-3.0/

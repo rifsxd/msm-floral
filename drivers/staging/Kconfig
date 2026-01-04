@@ -122,4 +122,8 @@ source "drivers/staging/s2mpg01/Kconfig"
 
 source "drivers/staging/wlan_mac/Kconfig"
 
+source "drivers/staging/fts/Kconfig"
+
+source "drivers/staging/qcacld-3.0/Kconfig"
+
 endif # STAGING
